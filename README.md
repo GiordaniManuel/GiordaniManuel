@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @GiordaniManuel
-- 👀 I’m interested in Front-End development
-- 🌱 I’m currently learning Bootstrap and JavaScript
+- 👀 I’m interested in Front-End development and UI/UX design.
+- 🌱 I’m currently learning Bootstrap and JavaScript.
 - 📫 How to reach me manuelgiordani.dev@gmail.com
